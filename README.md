@@ -15,14 +15,14 @@ const gnsX = {
     'Pixel Perfection'
   ],
   currentObsession: 'Pushing technological boundaries',
-  energySource: '☕ Caffeine &  Creativity'
+  energySource: '☕ Caffeine & Creativity'
 }
 ```
 
 ### 🛠️ Tech Constellation
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=typescript,react,nodejs,python,rust,docker,aws&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js,typescript,react,nextjs,prisma,redis,nodejs,express,nestjs,netlify,css,figma,aws,python,rust,c,cpp,latex,docker,ansible,bash,kubernetes&theme=dark" />
 </p>
 
 ### 🔮 Ongoing Quantum Experiments
