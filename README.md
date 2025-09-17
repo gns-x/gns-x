@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/header.svg" alt="Genesis animated header" />
+  <img src="./assets/header.svg" alt="Genesis header" />
 </p>
 
 <p align="center">
@@ -7,15 +7,14 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/gns-x"><img src="https://img.shields.io/badge/Genesis-Builds%20that%20feel%20inevitable-6EE7F9?style=for-the-badge&logo=github" alt="Tagline" /></a>
-  <a href="https://github.com/genesis0x"><img src="https://img.shields.io/badge/Alt%20Account-genesis0x-9333EA?style=for-the-badge&logo=github" alt="Alt" /></a>
+  <a href="https://github.com/gns-x"><img src="https://img.shields.io/badge/Genesis-AI%20%7C%20LangChain%20%26%20Agents-6EE7F9?style=for-the-badge&logo=github" alt="Profile" /></a>
 </p>
 
 ## Signal
 
 - Role: Software Engineer
 - Languages I think in: TypeScript • Python • C • C++ • Rust • Elixir
-- Interests: Systems design, compilers, distributed systems, real-time UIs, DX
+- Interests: AI systems, LangChain, agents, RAG, tool-use, orchestration, LLM evals
 
 ## Constellation of Craft
 
@@ -56,16 +55,7 @@ mindmap
       Ergonomics
 ```
 
-### Taste Map
-
-```mermaid
-%%{init: {'theme': 'dark'}}%%
-pie title What I optimize for
-  "Clarity" : 28
-  "Reliability" : 24
-  "Performance felt by users" : 30
-  "Ergonomics" : 18
-```
+ 
 
 ## Signature Kata (one idea, six tongues)
 
@@ -169,27 +159,6 @@ end
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=gns-x&show_icons=true&count_private=true&theme=tokyonight&rank_icon=github" alt="GitHub Stats" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gns-x&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img height="180" src="https://streak-stats.demolab.com?user=gns-x&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
-  <img height="180" src="https://github-profile-trophy.vercel.app/?username=gns-x&theme=onedark&no-frame=true&no-bg=true&column=6" alt="Trophies" />
-</p>
-
-<p align="center">
-  <img src="./metrics.svg" alt="Metrics" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gns-x&theme=react-dark&area=true&hide_border=false&radius=10" alt="Activity Graph" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/gns-x/gns-x/output/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contributions" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/gns-x/gns-x/output/snake.svg" alt="Snake Animation" />
 </p>
 
 ---
