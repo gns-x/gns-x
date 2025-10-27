@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="https://media1.tenor.com/m/A7Oqu7IELcgAAAAd/dancing-animated.gif" alt="Dancing animation" />
+  <img src="https://media.giphy.com/media/y1ZBcOGOOtlpC/giphy.gif" alt="Loading..." />
 </p>
